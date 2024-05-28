@@ -1,0 +1,4 @@
+1- The camera should remain fixed after playing with widgets. 
+2- draw residuals between data points(ground truth and line)
+3- animate the equations if possible. 
+4- write the optimzaiton equation for MSE (i.e. argmin), not just raw equation.
