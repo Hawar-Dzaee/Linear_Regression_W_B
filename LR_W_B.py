@@ -32,6 +32,7 @@ def generate_plot(w,b):
       x = inputs_for_line,
       y = w * inputs_for_line + b,
       mode = 'lines',
+      line = dict(color='rgb(27,158,119)'),
       name = 'model'
   )
 
